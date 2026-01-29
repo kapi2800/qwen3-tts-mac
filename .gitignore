@@ -1,0 +1,50 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Dependencies and models (large files)
+Qwen3-TTS/
+models/
+
+# Audio output files
+outputs/
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Environment files (may contain secrets)
+.env
+.env.local
+.env.*.local
+
+# UV lock file (optional - uncomment if you want to include it)
+# uv.lock
