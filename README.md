@@ -166,4 +166,4 @@ ENABLE_TORCH_COMPILE = False          # Experimental speedup
 
 ---
 
-If you made it this far and this actually worked for you, maybe hit that star button. Or don't. I'm just a readme, not your boss.
+If you made it this far and this actually worked for you, maybe hit that star button. Or don't. I'm just a readme.
